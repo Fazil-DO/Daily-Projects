@@ -20,3 +20,15 @@ This is a personal CV (Curriculum Vitae) built using pure HTML as part of a lear
 - Meta Tags (SEO & OG)
 
 ---
+
+Link URL: https://voluble-raindrop-0f0b55.netlify.app/
+
+---
+
+
+<img width="1869" height="910" alt="Screenshot 2025-07-18 at 22-36-30 CV" src="https://github.com/user-attachments/assets/fdf1af9b-60a8-418b-905d-86e42e66f3d6" />
+
+
+---
+
+
