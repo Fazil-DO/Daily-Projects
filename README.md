@@ -1,4 +1,4 @@
-# DAily Projects
+# Daily Projects
 
 A collection of daily coding projects, experiments, and mini builds to sharpen skills, explore new ideas, and stay consistent with hands-on development.
 
@@ -19,4 +19,4 @@ Consistency beats intensity. These daily builds are meant to:
 
 If any projects are hosted, you can link them here:
 
-- [Project 1]([https://your-link.com](https://voluble-raindrop-0f0b55.netlify.app/))
+- [Project 1](https://your-link.com](https://voluble-raindrop-0f0b55.netlify.app/)
