@@ -21,7 +21,7 @@ This is a personal CV (Curriculum Vitae) built using pure HTML as part of a lear
 
 ---
 
-Link URL: https://voluble-raindrop-0f0b55.netlify.app/
+**Live Site:** https://voluble-raindrop-0f0b55.netlify.app/
 
 ---
 
