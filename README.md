@@ -19,4 +19,4 @@ Consistency beats intensity. These daily builds are meant to:
 
 If any projects are hosted, you can link them here:
 
-- [Project 1] https://your-link.com](https://voluble-raindrop-0f0b55.netlify.app/
+**Project 1 URL:** [https://voluble-raindrop-0f0b55.netlify.app/](https://voluble-raindrop-0f0b55.netlify.app/)
