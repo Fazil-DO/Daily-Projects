@@ -1,4 +1,4 @@
-# DAily Projects
+# Daily Projects
 
 A collection of daily coding projects, experiments, and mini builds to sharpen skills, explore new ideas, and stay consistent with hands-on development.
 
